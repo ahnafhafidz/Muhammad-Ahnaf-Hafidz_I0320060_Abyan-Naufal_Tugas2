@@ -1,6 +1,6 @@
-print(Praktikum Programa Komputer week 2)
+print("Praktikum Programa Komputer week 2")
 
-print(Soal 1)
+print("Soal 1")
 
 import math
 
